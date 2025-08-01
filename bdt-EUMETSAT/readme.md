@@ -1,0 +1,2 @@
+# bdt-EUMETSAT
+bdt-EUMETSAT,用于从[https://dataspace.copernicus.eu/](https://data.eumetsat.int/search) 批量检索下载Sentinel3、Sentinel5等数据。目前托管于仓库：[Eumetsat_Download](https://github.com/cyloveyou/Eumetsat_Download)

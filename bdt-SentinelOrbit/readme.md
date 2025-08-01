@@ -1,0 +1,2 @@
+# bdt-SentinelOrbit
+bdt-SentinelOrbit,用于从[https://s1qc.asf.alaska.edu/aux_poeorb/](https://s1qc.asf.alaska.edu/aux_poeorb/)下载Sentinel1的精密轨道数据产品，目前托管于仓库[SentinelOrbit](https://github.com/cyloveyou/SentinelOrbit)
